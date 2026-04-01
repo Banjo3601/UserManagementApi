@@ -4,6 +4,7 @@ API .NET permettant la gestion d'utilisateur :
 - Recherche avec pagination des utilisateurs
 - seed de 5 utilisateurs
 - mot de passe hashé
+- Fait pour un SGBD PostgreSQL
 
 Voici les 5 utilisateurs :
 
