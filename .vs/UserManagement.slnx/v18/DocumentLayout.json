@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,35 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\UserRequest.cs",
-              "RelativeDocumentMoniker": "Models\\UserRequest.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\UserRequest.cs",
-              "RelativeToolTip": "Models\\UserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T20:58:44.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\AuthController.cs",
-              "RelativeToolTip": "Controller\\AuthController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T19:02:36.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
@@ -90,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "UserManagementApi.http",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\UserManagementApi.http",
               "RelativeDocumentMoniker": "UserManagementApi.http",
@@ -98,24 +74,25 @@
               "RelativeToolTip": "UserManagementApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-25T20:25:15.823Z"
+              "WhenOpened": "2026-03-25T20:25:15.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\UsersController.cs",
               "RelativeDocumentMoniker": "Controller\\UsersController.cs",
               "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\UsersController.cs",
               "RelativeToolTip": "Controller\\UsersController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T19:08:54.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -127,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -139,39 +116,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-24T20:51:06.06Z"
+              "WhenOpened": "2026-03-24T20:51:06.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEoAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T22:25:34.461Z"
+              "WhenOpened": "2026-03-23T22:25:34.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Controller\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:02:36.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-24T20:50:56.34Z"
+              "WhenOpened": "2026-03-24T20:50:56.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\UserRequest.cs",
+              "RelativeToolTip": "Models\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T20:58:44.654Z"
             }
           ]
         }
